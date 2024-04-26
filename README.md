@@ -1,5 +1,5 @@
 # PHP Crash Course
-This repository is used for a PHP course. The course's link: https://www.youtube.com/watch?v=BUCiSSyIGGU
+This repository includes a PHP course. The course's link: https://www.youtube.com/watch?v=BUCiSSyIGGU
 
 # What is PHP?
 PHP (PHP: Hypertext Preprocessor) is a general-purpose scripting language geared toward web development.

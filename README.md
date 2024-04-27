@@ -46,7 +46,6 @@ Tools such as XAMPP & MAMP give you everything you need to develop PHP websites 
 * Loops & Iteration
 * Functions
 * Superglobals
-* Forms
 * $_GET & $_POST
 * Sanitization & Validation
 * Cookies

@@ -38,6 +38,7 @@ Tools such as XAMPP & MAMP give you everything you need to develop PHP websites 
 * Laravel: Extremely powerful and full-featured web framework for creating applications and APIs of any size
 
 # What does this course include?
+* Introduction, Syntax & Outputs
 * Variables & Data Types
 * Operators
 * Arrays & Array Methods
